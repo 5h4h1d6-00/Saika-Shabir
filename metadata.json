@@ -1,0 +1,6 @@
+{
+  "name": "Saika Shabir Portfolio",
+  "description": "Professional resume-style portfolio website for Saika Shabir, Computer Science Engineering graduate, featuring an elegant glassmorphic theme and download-ready PDF resume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
