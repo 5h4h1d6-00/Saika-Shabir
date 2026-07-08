@@ -229,7 +229,7 @@ export const Skills: React.FC = () => {
                           key={dot} 
                           className={`w-2 h-2 rounded-full ${
                             lang === 'English' && dot <= 4 ? 'bg-purple-600 shadow-xs shadow-purple-500/25' :
-                            lang === 'Hindi' && dot <= 5 ? 'bg-purple-600 shadow-xs shadow-purple-500/25' :
+                          
                             lang === 'Urdu' && dot <= 5 ? 'bg-purple-600 shadow-xs shadow-purple-500/25' : 'bg-slate-200 dark:bg-slate-800'
                           }`}
                         />
